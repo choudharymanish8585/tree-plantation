@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+    <name>CustomApplication</name>
+    <members>Tree_Plantation</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>TreeListController</members>
+    <members>TreeListControllerTest</members>
+    <members>TreeLocationController</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Tree_Plantation</members>
+    <members>Tree_Plantation_UtilityBar</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>City__c-City Layout</members>
+    <members>Tree_Plantation__c-Tree Layout</members>
+    <members>Tree__c-Tree Layout</members>
+  </types>
+  <types>
+    <name>LightningComponentBundle</name>
+    <members>pubsub</members>
+    <members>treeCard</members>
+    <members>treeList</members>
+    <members>treeLocation</members>
+    <members>treePlantationExplorer</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>City__c</members>
+    <members>Tree_Plantation__c</members>
+    <members>Tree__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>City__c.Location__c</members>
+    <members>City__c.Target__c</members>
+    <members>City__c.Total_Trees__c</members>
+    <members>Tree_Plantation__c.Age__c</members>
+    <members>Tree_Plantation__c.Number_Of_Tree_Planted__c</members>
+    <members>Tree_Plantation__c.Planted_In__c</members>
+    <members>Tree_Plantation__c.Tree__c</members>
+    <members>Tree__c.Benefit__c</members>
+    <members>Tree__c.Picture__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>City__c.All</members>
+    <members>Tree_Plantation__c.All</members>
+    <members>Tree__c.All</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>TreePlantation</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>treeimages</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>City__c</members>
+    <members>Tree_Plantation</members>
+    <members>Tree_Plantation__c</members>
+    <members>Tree__c</members>
+  </types>
+  <version>46.0</version>
+</Package>

@@ -1,0 +1,14 @@
+<template>
+    <div class='card-container'>
+        <lightning-card icon-name="action:freeze_user">
+            <p slot="title">{treeName}</p>
+            <lightning-button-icon slot='actions' icon-name='utility:preview' size='large' variant='bare' onclick={navigateToRecord} ></lightning-button-icon>
+            <lightning-button label="View Locations" variant="base" slot="footer" onclick={showTreeLocations}>
+            </lightning-button>
+            <img src={treePicture} class="tree-picture">
+            <div class="slds-p-horizontal_medium slds-p-top_x-small tree-benefit">
+                {treeBenefits}
+            </div>
+        </lightning-card>
+    </div>
+</template>

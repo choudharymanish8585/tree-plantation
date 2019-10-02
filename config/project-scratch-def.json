@@ -1,0 +1,11 @@
+{
+  "orgName": "SFDCFacts Academy",
+  "edition": "Developer",
+  "hasSampleData": true,
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}

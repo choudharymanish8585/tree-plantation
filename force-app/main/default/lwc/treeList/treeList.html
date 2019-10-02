@@ -1,0 +1,15 @@
+<template>
+    <lightning-card>
+        <h2 class="slds-border_bottom slds-m-horizontal_medium slds-text-heading_large">Tree List</h2>
+        <lightning-layout multiple-rows>
+            <template for:each={allTree.data} for:item="tree">
+                <lightning-layout-item key={tree.Id} padding="around-medium" size="4">
+                    <c-tree-card tree-id={tree.Id} 
+                        tree-name={tree.Name} 
+                        tree-benefits={tree.Benefit__c}
+                        tree-picture={tree.Picture__c}></c-tree-card>
+                </lightning-layout-item>
+            </template>
+        </lightning-layout>
+    </lightning-card>
+</template>

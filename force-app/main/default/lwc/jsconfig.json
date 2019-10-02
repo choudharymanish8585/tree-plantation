@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/treeCard": [
+                "treeCard/treeCard.js"
+            ],
+            "c/treeList": [
+                "treeList/treeList.js"
+            ],
+            "c/treeLocation": [
+                "treeLocation/treeLocation.js"
+            ],
+            "c/treePlantationExplorer": [
+                "treePlantationExplorer/treePlantationExplorer.js"
+            ]
+        },
+        "experimentalDecorators": true
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
