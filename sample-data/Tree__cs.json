@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef1"
+            },
+            "Name": "Teak Tree",
+            "Picture__c": "/resource/treeimages/teak.jpg",
+            "Benefit__c": "The teak trees are very tall having a height near about 30 meters and are evergreen. The larger leaves are of same the size of tobacco trees. The flowers are of white to bluish coloured and the fruit is of papery and light brown in colour. They normally have uneven texture by growing straight and have slight lustre. Teak is widely used in making furniture, boats, doors and windows of a house. Its bark is considered very useful for a headache, stomach problem, fevers and digestion."
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef2"
+            },
+            "Name": "Maple Tree",
+            "Picture__c": "/resource/treeimages/maple.jpg",
+            "Benefit__c": "Maple is a common type of shrub. There are as many as 125 species of maple trees which are present in nature. The main types of maple trees are sugar maple, red maple, silver maple, Japanese maple, Norway maple and paperbark maple. The trees are deciduous trees which mean they lose their leaves in each fall but some are there that do not shed the leaves. Canadian flag depicts a maple leaf on it. It is used as an art of bonsai and is extensively used as an ornamental tree due to its different vibrant colours"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef3"
+            },
+            "Name": "Peepal Tree",
+            "Picture__c": "/resource/treeimages/peepal.jpg",
+            "Benefit__c": "It is a fast-growing tree having heart-shaped leaves with a large crown. It sheds its leaves in the month of March and April. Peepal tree is used for various purposes, as ear drop, heals wounds, root bark cleans ulcers, prevent gum diseases, urinary troubles, the fruit is useful for asthma and many more. The leaves are also used as decorative items."
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef4"
+            },
+            "Name": "Eucalyptus",
+            "Picture__c": "/resource/treeimages/eucalyptus.png",
+            "Benefit__c": "The leaves of this evergreen kind of tree are of 6-12 inches long and 1-2 inches broad when they are adult. Height is nearly about 300 feet or more. Prominent bark appears as it ages. Fruit comes in a capsule. One of the main use of this kind of tree is plywood for the manufacture of the paper and its poles are also used for the construction of houses. It also lowers the sugar level in blood and purifies it. It acts as an antiseptic and also provides a remedy for asthma patients."
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef5"
+            },
+            "Name": "Aloe Vera",
+            "Picture__c": "/resource/treeimages/aloe-vera.jpg",
+            "Benefit__c": "Aloe Vera plant usually grows to a height of about 12 to 16 inches. It has thick and fleshy leaves with sharp edges but does not have a stem. Long leaves are mainly in triangular fashion inside which contains the aloe vera gel. It grows in sandy soil in a sunny location though need to be watered on a regular basis. Aloe Vera is useful to hair to remove dandruff and the itchy effect. Though they are essential in cosmetic products, they are equally important to the food industry."
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef6"
+            },
+            "Name": "Indian Rosewood",
+            "Picture__c": "/resource/treeimages/indian-rosewood.jpeg",
+            "Benefit__c": "The rosewood is a kind of tree alternate rows up to an altitude of about 25 m and has a diameter of about 3 m. This rosewood is a deciduous tree which grows straight. Flowers are of white and pink colours. The fruit is brown coloured and is of very dry and hard. Crown part is oval in shape. This tree works as fuelwood. It is used in furniture making, plywood, musical instruments, etc. It is a remedy for acne treatment and helps to balance oily and dry skins. The rosewood oil stimulates the growth of a new cell."
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef7"
+            },
+            "Name": "Banyan Tree",
+            "Picture__c": "/resource/treeimages/banyan.jpg",
+            "Benefit__c": "Banyan trees are mostly seen in different regions of the country and are the national tree of India that grows in a special type of soil. The oldest Banyan tree is present in Kolkata. This huge type of tree has extensive branches in order to provide support to it, having height more than 21 m. Leaves are of 10-20 cm long. Leaves are used as plates in India. Wood is used for making furniture, door, etc. Leaf, seeds and bark are useful for various diseases and disorders."
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef8"
+            },
+            "Name": "Neem Tree",
+            "Picture__c": "/resource/treeimages/neem.jpeg",
+            "Benefit__c": "The most common and popular tree of probably every household is the neem tree that has bright leaves and goes up to the height of 100 feet. A straight and rough trunk is seen in neem trees. Each part of the Neem trees is essential for different purposes. They are used to treat chicken pox and used in various medicines. Wood is also used in south India for furniture making. Neem can be used as fertilisers for different plants."
+        }
+    ]
+}

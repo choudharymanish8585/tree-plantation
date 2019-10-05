@@ -1,0 +1,26 @@
+[
+    {
+        "sobject": "Tree__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Tree__cs.json"
+        ]
+    },
+    {
+        "sobject": "City__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "City__c.json"
+        ]
+    },
+    {
+        "sobject": "Tree_Plantation__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Tree_Plantation__cs.json"
+        ]
+    }
+]

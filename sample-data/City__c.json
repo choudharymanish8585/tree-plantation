@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "City__c",
+                "referenceId": "City__cRef1"
+            },
+            "Name": "Pune",
+            "Location__Latitude__s": 18.52043,
+            "Location__Longitude__s": 73.856743,
+            "Target__c": 15000
+        },
+        {
+            "attributes": {
+                "type": "City__c",
+                "referenceId": "City__cRef2"
+            },
+            "Name": "Jaipur",
+            "Location__Latitude__s": 26.912434,
+            "Location__Longitude__s": 75.78727,
+            "Target__c": 20000
+        },
+        {
+            "attributes": {
+                "type": "City__c",
+                "referenceId": "City__cRef3"
+            },
+            "Name": "Hyderabad",
+            "Location__Latitude__s": 17.385044,
+            "Location__Longitude__s": 78.486671,
+            "Target__c": 40000
+        },
+        {
+            "attributes": {
+                "type": "City__c",
+                "referenceId": "City__cRef4"
+            },
+            "Name": "Delhi",
+            "Location__Latitude__s": 28.70406,
+            "Location__Longitude__s": 77.102493,
+            "Target__c": 35000
+        },
+        {
+            "attributes": {
+                "type": "City__c",
+                "referenceId": "City__cRef5"
+            },
+            "Name": "Bengaluru",
+            "Location__Latitude__s": 12.971599,
+            "Location__Longitude__s": 77.594566,
+            "Target__c": 30000
+        }
+    ]
+}
