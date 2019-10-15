@@ -153,6 +153,7 @@
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
     <label>Tree</label>
+    <pluralLabel>Trees</pluralLabel>
     <nameField>
         <label>Tree Name</label>
         <type>Text</type>

@@ -153,6 +153,7 @@
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
     <label>Tree Plantation</label>
+    <pluralLabel>Tree Plantations</pluralLabel>
     <nameField>
         <displayFormat>Tree-{000}</displayFormat>
         <label>Tree Number</label>

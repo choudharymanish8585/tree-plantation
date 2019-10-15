@@ -153,6 +153,7 @@
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
     <label>City</label>
+    <pluralLabel>Cities</pluralLabel>
     <nameField>
         <label>City Name</label>
         <type>Text</type>
