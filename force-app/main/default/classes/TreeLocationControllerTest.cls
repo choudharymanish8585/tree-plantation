@@ -41,5 +41,9 @@ public with sharing class TreeLocationControllerTest
         // The second line shows is a little shortcut
         //TreeLocationController.getTreeLocations(treePlantation.ID);
         TreeLocationController.getTreeLocations('JustGetTheTest'); 
+        
+        
+        // NEW feature Added from the DEV so it can get all the way to PROD
+        System.debug('Greetings my friend'); 
     }
 }
