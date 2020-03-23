@@ -38,8 +38,8 @@ public with sharing class TreeLocationControllerTest
     @isTest
     static void myUnitTest() 
     {
-        // TO DO: implement unit test
+        // The second line shows is a little shortcut
         //TreeLocationController.getTreeLocations(treePlantation.ID);
-        TreeLocationController.getTreeLocations('JustGetTheTest');
+        TreeLocationController.getTreeLocations('JustGetTheTest'); 
     }
 }
