@@ -16,6 +16,9 @@
             ],
             "c/treePlantationExplorer": [
                 "treePlantationExplorer/treePlantationExplorer.js"
+            ],
+            "c/newTreePlantation": [
+                "newTreePlantation/newTreePlantation.js"
             ]
         },
         "experimentalDecorators": true
