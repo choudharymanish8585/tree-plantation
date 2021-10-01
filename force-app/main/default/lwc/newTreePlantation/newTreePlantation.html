@@ -1,0 +1,14 @@
+<template>
+    <lightning-card>
+        <lightning-button slot="actions" label="Record New Plantation" variant="brand" onclick={recordNewPlantation}>
+        </lightning-button>
+        <template if:true={showForm}>
+            <lightning-record-form object-api-name="Tree_Plantation__c" 
+                    record-id={recordId} 
+                    layout-type="Full" 
+                    mode={mode}
+                    onsuccess={handleSuccess}>
+            </lightning-record-form>
+        </template>
+    </lightning-card>
+</template>
